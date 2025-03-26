@@ -1,0 +1,1 @@
+office, separated with vlans of course. get some WAPs, show off remote tunneling so emplee can WFH but only on specific authorized device
