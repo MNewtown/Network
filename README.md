@@ -11,7 +11,6 @@
 • HSRP ✔
 
 # What this network plans to showcase in the future:
-• VRRP (for multi-vendor environments)
 • Dynamic Routing Protocols
 • Port Security
 • NTP
